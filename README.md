@@ -19,6 +19,7 @@ Para resolver este ejercicio, creamos dos clases: Autor y Libro, cada una en su 
 El método mostrarInformacion() permite mostrar los datos del libro y obtener el nombre del autor mediante getNombre(). Finalmente, en MainEjercicio1 creamos dos autores y sus respectivos libros para comprobar que todo funcione correctamente.
 
 #### Evidencia de la ejecucion:
+<img width="1600" height="300" alt="image" src="https://github.com/user-attachments/assets/d40d89e2-b58c-4a59-bff4-9b5b5602bf91" />
 
 
 ### Ejercicio 2: Rectángulo
@@ -36,6 +37,7 @@ El método calcularArea() obtiene el área multiplicando la base por la altura, 
 Por último, el método mostrar() reúne todos estos resultados y los imprime en pantalla. Para comprobar su funcionamiento, en el main probamos dos casos: un rectángulo de 4.0 x 6.0 y otro de 5.0 x 5.0.
 
 #### Evidencia de la ejecucion:
+<img width="1600" height="309" alt="image" src="https://github.com/user-attachments/assets/bad844f1-1f50-4dde-b9fa-3037c24f2e3c" />
 
 
 
