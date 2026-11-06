@@ -59,6 +59,8 @@ En el main realizamos dos pruebas: una venta que se completa correctamente y otr
 
 #### Evidencia de la ejecucion:
 
+<img width="479" height="276" alt="image" src="https://github.com/user-attachments/assets/33466b15-28fd-464b-97c9-aae950e2f496" />
+
 
 ### Ejercicio 4: Transferencias
 
@@ -75,6 +77,7 @@ Agregamos el método transferir(), que permite enviar dinero desde una cuenta ha
 Para comprobar su funcionamiento, en el main creamos dos cuentas y realizamos una transferencia de 200. Después intentamos transferir 1000, para verificar que el programa no permita enviar dinero cuando el saldo no es suficiente.
 
 #### Evidencia de la ejecucion:
+<img width="766" height="376" alt="image" src="https://github.com/user-attachments/assets/6e93ae68-6110-4ae5-a434-f0e2c7f5a0aa" />
 
 
 ### Ejercicio 5: Biblioteca
@@ -97,4 +100,5 @@ En el main hacemos la prueba solicitada: dos usuarios intentan llevarse el mismo
 
 #### Evidencia de la ejecucion:
 
+<img width="886" height="145" alt="image" src="https://github.com/user-attachments/assets/12d2a1c8-64d7-4598-8c3c-00f7930f7ef2" />
 
